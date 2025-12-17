@@ -1,13 +1,12 @@
 # Hi, I’m Varsha 👋
 
 👩‍💻  Currently:  
-Cooking up Agentic AI workflows at **Talk2Scholars** (✨ citation-aware RAG + scientific paper automation).  
-Dabbling in image-based cell typing, PyTorch bugs, and obscure documentation.
+Dipping my toes into Data Engineering with Databricks as a Working Student at Mercedes-Benz AG!!
 
 🌱 Previously:  
 🔍 Built image classification pipelines during my Bachelors  
 📊 Explored clustering, feature engineering, and storytelling with data  
-🥣 Stirred together a mix of NLP, Computer Vision, and a lot of coffee
+🥣 Cooked up Agentic AI workflows at **Talk2Scholars** (✨ citation-aware RAG + scientific paper automation)
 
 ---
 
