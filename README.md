@@ -29,6 +29,9 @@ Dipping my toes into Data Engineering with Databricks as a Working Student at Me
 
 ## 🧪 Highlighted Projects
 
+🤖 [AgentTeam *(Master's Thesis)*](https://github.com/varsha1206/AgentTeam)
+Building a multi-agent system that retrieves, transforms, validates and repairs ETL pipelines using LangGraph and structured AI workflows. Basically giving data ingestion pipelines a brain.
+
 🚀 [Talk2Scholars](https://github.com/varsha1206/AIAgents4Pharma)
 Citation-aware AI assistant using LLMs + metadata-aware retrieval. I don’t fine-tune LLMs (yet), but I make them talk smart.
 
